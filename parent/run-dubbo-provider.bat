@@ -1,0 +1,1 @@
+java -jar service/target/fpd-dubbo-provider.jar
