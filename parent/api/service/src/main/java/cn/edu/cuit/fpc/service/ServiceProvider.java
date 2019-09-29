@@ -17,7 +17,7 @@ public class ServiceProvider implements Runnable {
     }
 
     private String getTime() {
-        return simpleDateFormat.format(date.getTime()).toString();
+        return simpleDateFormat.format(date.getTime());
     }
 
     @Override

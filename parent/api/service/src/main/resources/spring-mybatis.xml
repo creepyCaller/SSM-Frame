@@ -4,12 +4,26 @@
        xmlns:mybatis-spring="http://mybatis.org/schema/mybatis-spring"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://mybatis.org/schema/mybatis-spring http://mybatis.org/schema/mybatis-spring.xsd">
 
+    <!--导入配置文件 -->
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations">
+            <list>
+                <value>spring-mybatis.properties</value>
+            </list>
+        </property>
+    </bean>
+
     <!-- 数据源配置 -->
     <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
-        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-        <property name="url" value="jdbc:mysql://localhost:3306/fpd?useSSL=true"/>
-        <property name="username" value="root"/>
-        <property name="password" value="root"/>
+        <property name="driverClassName" value="${driver}"/>
+        <property name="url" value="${url}"/>
+        <property name="username" value="${username}"/>
+        <property name="password" value="${password}"/>
+        <property name="initialSize" value="${initialSize}"/>
+        <property name="maxActive" value="${maxActive}"/>
+        <property name="maxIdle" value="${maxIdle}"/>
+        <property name="minIdle" value="${minIdle}"/>
+        <property name="maxWait" value="${maxWait}"/>
     </bean>
 
     <!-- 告诉Spring用这个类创建工厂，替代MyBatisUtil -->
@@ -28,7 +42,7 @@
         </property>
     </bean>
 
-    <!--  让Spring管理Mapper -->
+    <!--  Mapper所在的包名 -->
     <mybatis-spring:scan base-package="cn.edu.cuit.fpc.mapper"/>
 
 </beans>
