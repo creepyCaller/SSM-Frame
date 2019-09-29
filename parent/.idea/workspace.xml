@@ -42,133 +42,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/java/cn/edu/cuit/fpc/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/java/cn/edu/cuit/fpc/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/dubbo-consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/loginSuccess.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/navbar.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/registerSuccess.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/jsp/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/css/jumbotron.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/js/vue.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/static/png/ddr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpd.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mapper/src/main/java/cn/edu/cuit/fpc/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/cn/edu/cuit/fpc/model/T_User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-dubbo-provider.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/cn/edu/cuit/fpc/service/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/cn/edu/cuit/fpc/service/ServiceProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/cn/edu/cuit/fpc/service/TXManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/cn/edu/cuit/fpc/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/cn/edu/cuit/fpc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/resources/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/resources/dubbo-provider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/resources/spring-mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/artifacts/tsmgr_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/libraries/Maven__com_alibaba_fastjson_1_2_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/libraries/c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/libraries/commons_dbutils_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/.idea/libraries/servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/AddAdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/BaseControllerInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/ClassController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/DispatcherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/LabClassCommentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/NormalClassCommentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/RegisteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/RoomController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/SaveNameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/SystemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/TSMemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/AddAdminDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/ClassDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/CommentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/CourseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/RoomDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/TSMemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/TaskDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/dao/jdbc/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/filter/VisitFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/listener/SystemInitListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/model/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/BaseServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/SaveNameServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/SystemServiceInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/AddAdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/ClassService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/LabClassCommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/NormalClassCommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/RoomService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/SaveNameService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/SystemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/TSMemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/TeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/service/impl/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/util/EncryptionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/util/MysqlTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/util/StringTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/java/cn/edu/cuit/tsmgr/util/VCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/lib/commons-dbutils-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/admin/addadmin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/admin/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/admin/adminPersonal.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/admin/adminSystem.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/admin/usermgr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/about.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/classmgr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/coursemgr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/help.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/labcourse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/normalcourse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/plantask.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/roommgr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/tasks.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/teachermgr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/others/tsmembermgr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/teacher/teacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/teacher/teacherPersonal.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/tsmember/tsmember.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/WEB-INF/views/tsmember/tsmemberPersonal.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/labcoursewithvalue.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsmgr/src/main/webapp/normalcoursewithvalue.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mapper/target/" />
@@ -213,6 +87,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -447,7 +322,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -580,8 +455,16 @@
       <workItem from="1569716163096" duration="9914000" />
       <workItem from="1569727667560" duration="201000" />
       <workItem from="1569727958147" duration="740000" />
-      <workItem from="1569737312453" duration="1808000" />
+      <workItem from="1569737312453" duration="2595000" />
     </task>
+    <task id="LOCAL-00001" summary="2019/9/29 上传项目">
+      <created>1569739564176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569739564176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -593,7 +476,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52086000" />
+    <option name="totallyTimeSpent" value="52873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,14 +490,14 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609163" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49935815" visible="true" weight="0.17609163" />
+      <window_info id="Structure" order="1" sideWeight="0.5006418" side_tool="true" weight="0.17609163" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5006418" side_tool="true" weight="0.17609163" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49892628" weight="0.25417203" />
@@ -707,6 +590,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
     <MESSAGE value="2019/9/29 上传项目" />
     <option name="LAST_COMMIT_MESSAGE" value="2019/9/29 上传项目" />
   </component>
