@@ -6,16 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mapper" />
-        <module name="api" />
         <module name="model" />
         <module name="util" />
+        <module name="dao" />
         <module name="service" />
         <module name="controller" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="dubboprovidertojar" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

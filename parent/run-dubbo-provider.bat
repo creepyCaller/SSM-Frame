@@ -1,1 +1,1 @@
-java -jar service/target/fpd-dubbo-provider.jar
+java -jar api/service/target/fpd-dubbo-provider.jar

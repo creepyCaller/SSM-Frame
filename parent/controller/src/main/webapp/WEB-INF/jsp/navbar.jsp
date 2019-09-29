@@ -24,10 +24,10 @@
         </ul>
 
         <c:if test="${empty username}" var="result">
-            <a href="toLogin" style="color: white;">登录</a>
+            <a class="navbar-brand" href="toLogin">登录</a>
         </c:if>
         <c:if test="${!result }">
-            <a href="logout" style="color: white">${username}</a>
+            <a class="navbar-brand" href="logout" >${username}</a>
         </c:if>
 
     </div>
